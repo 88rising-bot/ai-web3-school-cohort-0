@@ -1,15 +1,3 @@
-
-exit
-exit
-- gh logged in as 88rising-bot
-- Repo: 88rising-bot/ai-web3-school-cohort-0 (public)
-- 本地: ~/ai-web3-school-cohort-0
-- 结构: daily/ tasks/ experiments/ handbook-feedback/ hackathon/ submissions/ templates/
-- 文件: README.md, profile.md, learning-plan.md
-- Cron: 10am (4fe42510fc34) & 4pm (805c747d7e6f) UTC+8
-cd ~/ai-web3-school-cohort-0
-mkdir -p tasks
-cat > tasks/checkpoint.md << 'EOF'
 # Checkpoint 2026-05-18
 
 ## 已完成
