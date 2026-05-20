@@ -16,6 +16,10 @@
 
 - `daily/`              # 每日学习笔记 + 打卡草稿
 - `tasks/`              # 任务记录
+  - `tasks/dune/`       # Dune Analytics / SQL 相关
+  - `tasks/web3/`       # Web3 概念与研究
+  - `tasks/trading/`    # 交易相关
+  - `tasks/misc/`       # 其他任务
 - `experiments/`        # 实验与尝试
 - `handbook-feedback/`  # Handbook 反馈
 - `hackathon/`          # Hackathon 相关
